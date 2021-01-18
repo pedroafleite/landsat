@@ -1,7 +1,5 @@
 ## Landsat Image Classification
 
-[See it throughly on GitHub](https://github.com/pedroafleite/landsat).
-
 Original Dataset [here](http://archive.ics.uci.edu/ml/datasets/Statlog+%28Landsat+Satellite%29).
 
 - [See Landsat Classification on Jupyter notebook.](https://github.com/pedroafleite/landsat/blob/main/landsat.ipynb)
